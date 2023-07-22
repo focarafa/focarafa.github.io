@@ -1,8 +1,8 @@
 :root {
-    --blue: #0A94C8;
+    --blue: #8bbeb2;
     --lighter-blue: #addbec;
-    --yellow: #FFB603;
-    --red: #FF2F03;
+    --yellow: #FFCA42;
+    --red: #f04e1d;
     --dark: #233044;
     --grey: #454963;
     --white: #fff;
@@ -140,7 +140,7 @@ code {
 /********************* Navbar *********************/
 
 .navbar {
-  background: var(--white) !important;
+  background: var(--yellow) !important;
   color: var(--dark);
   font-family: var(--title);
 }
